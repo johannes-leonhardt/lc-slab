@@ -1,4 +1,3 @@
-
 import os
 gpus = "0"
 os.environ["CUDA_VISIBLE_DEVICES"] = gpus

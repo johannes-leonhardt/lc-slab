@@ -1,5 +1,5 @@
 import os
-gpus = "1"
+gpus = "0"
 os.environ["CUDA_VISIBLE_DEVICES"] = gpus
 import warnings
 from datetime import datetime

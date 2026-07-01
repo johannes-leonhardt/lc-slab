@@ -1,6 +1,5 @@
-
 import os
-gpus = "1"
+gpus = "0"
 os.environ["CUDA_VISIBLE_DEVICES"] = gpus
 
 import numpy as np

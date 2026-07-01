@@ -1,8 +1,4 @@
-
-import torch
 import torch.nn as nn
-import torch.nn.functional as F
-from kornia.filters import gaussian_blur2d, bilateral_blur
 
 from model.utils import reduce_lc_to_seg
 

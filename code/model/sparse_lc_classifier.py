@@ -1,6 +1,4 @@
-
 import torch
-import torch.nn.functional as F
 from torch.utils.data import Subset
 import lightning.pytorch as pl
 from tqdm import tqdm
