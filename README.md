@@ -1,6 +1,10 @@
 # LC-SLab - An Object-based Deep Learning Framework for Large-scale Land Cover Classification from Satellite Imagery and Sparse In-situ Labels
 
-This repository contains the code for our paper "LC-SLab - An Object-based Deep Learning Framework for Large-scale Land Cover Classification from Satellite Imagery and Sparse In-situ Labels", which is currently under review.
+This repository contains the code for our paper [LC-SLab — An object-based deep learning framework for large-scale land cover classification from satellite imagery and sparse in-situ labels](https://doi.org/10.1016/j.jag.2026.105476), which is published at *International Journal of Applied Earth Observation and Geoinformation*.
+
+## Reference
+
+Leonhardt, J., Gall, J., & Roscher, R. (2026). LC-SLab — An object-based deep learning framework for large-scale land cover classification from satellite imagery and sparse in-situ labels. *International Journal of Applied Earth Observation and Geoinformation*, 152, 105476. 
 
 ## Abstract
 
